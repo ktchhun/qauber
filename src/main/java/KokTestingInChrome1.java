@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class KokTestingInChrome {
+public class KokTestingInChrome1 {
 	
 	public static void main(String[] args) throws Exception
 	{
