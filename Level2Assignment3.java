@@ -22,5 +22,5 @@ public class Level2Assignment3 {
 			System.out.println("FAILED");
 		}		
 	}
-
+		driver.quit();
 }
